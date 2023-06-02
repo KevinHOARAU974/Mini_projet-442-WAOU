@@ -9,7 +9,7 @@ Le programme doit être capable de:
 - Pouvoir parcourir la playlist dans les 2 sens
 - Afficher le titre du fichier
 - Afficher le timer de la musique
-- Changer le volume
+
 
 ### _Communication:_ 
 
@@ -41,7 +41,7 @@ _### Fonctions crées:_
 - Une tâche qui charge les données de la SD Card
 
 
-### _Difficultés rencontrés:_
+### _Difficultés rencontrées:_
 
 - Difficulté de prise en main de la SD Card
 - Impossibilité de reproduire le TP DAC avec le codec audio 
