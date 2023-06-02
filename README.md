@@ -1,7 +1,3 @@
-# Mini_projet-442-WAOU
-Le projet "Wav Anime Opening Universal" (WAOU) est le mini-projet que j'ai réalisé dans le cadre de l'UE 442. Il s'agit d'un lecteur de musique au format WAV qui ne lit que les openings d'anime japonais (Tout autre genre de musique est formellement interdit)
-
-
 Le WAOU est un lecteur de musique au format .WAV. Il utilise le codec audio wm8994 qui permet de faire sortie un son plus agréable que le Convertisseur Numérique Analogique de la carte d'apprentissage. De plus toutes les musiques sont stockées sur une carte micro SD. Les musiques n'ont pas besoin d'avoir de traitements préalable particulier car le programme est capable de lire la taille et la fréquence d'échantillonnage depuis l'en-tête du ficher .WAV. Il est donc possible de mettre n'importe quel morceau (tant que cela reste en rapport avec les animés, bien entendu). Le projet s'est basé sur le travail de Louis Lalay qui a été réalisé il y a 2 ans.
 
 ### _Caractéristiques:_
